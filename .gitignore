@@ -15,4 +15,5 @@ tmp
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+#Ignore environment variables
 .env
