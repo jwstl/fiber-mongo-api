@@ -16,4 +16,4 @@ tmp
 # vendor/
 
 #Ignore environment variables
-.env
+*.env
